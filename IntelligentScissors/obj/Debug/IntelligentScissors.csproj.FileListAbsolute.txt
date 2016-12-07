@@ -1,0 +1,16 @@
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+C:\Users\sona elprince\Desktop\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\University\Archive\3rd Year\First Term\04-Analysis and Design of Algorithms [Lab] {5 h} 'CSC'\Project\Delivered Version\IntelligentScissors (8)\IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
